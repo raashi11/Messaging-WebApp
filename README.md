@@ -27,5 +27,8 @@ Note: Open the admin and customer in different tabs to see the working.
 
 Video of working: 
 
-https://user-images.githubusercontent.com/59081843/208096920-08c5bf7b-89d2-4fb0-bd45-10bbe77eb1d7.mp4
+
+https://user-images.githubusercontent.com/59081843/208099469-3dbb2652-84af-4194-b21a-ba5cbe463820.mp4
+
+
 
