@@ -19,3 +19,13 @@ password: 1092
 
 User: user_1155
 password: 1155
+
+Note: Open the admin and customer in different tabs to see the working.
+
+5. Now open http://localhost:8000/chat/ and start chatting.
+
+
+Video of working: 
+
+https://user-images.githubusercontent.com/59081843/208096920-08c5bf7b-89d2-4fb0-bd45-10bbe77eb1d7.mp4
+
